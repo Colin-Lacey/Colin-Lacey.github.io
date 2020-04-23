@@ -1,0 +1,22 @@
+{
+  "name": "colin-lacey.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio/Resume",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colin-Lacey/Colin-Lacey.github.io.git"
+  },
+  "author": "Colin Lacey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Colin-Lacey/Colin-Lacey.github.io/issues"
+  },
+  "homepage": "https://github.com/Colin-Lacey/Colin-Lacey.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
